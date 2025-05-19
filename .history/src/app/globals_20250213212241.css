@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-montserrat {
+    font-family: var(--font-montserrat), sans-serif;
+}
+
+.font-roboto {
+    font-family: var(--font-roboto), sans-serif;
+}
